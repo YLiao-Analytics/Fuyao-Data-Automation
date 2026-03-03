@@ -28,7 +28,7 @@ Production lines generate independent daily reports. Analysts previously faced:
 ---
 
 ## 📈 Live Demo
-[![Streamlit App](https://app-workshop-w8qzri2vqcfauvolskfcbc.streamlit.app)]
+[![Streamlit App](https://app-workshop-w8qzri2vqcfauvolskfcbc.streamlit.app/)](你的_STREAMLIT_链接_粘贴在这里)
 
 > **How to use:** > 1. Click the badge above to open the cloud app.
 > 2. Upload the sample files from the `/Data` folder.
