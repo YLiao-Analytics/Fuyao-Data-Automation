@@ -28,7 +28,7 @@ Production lines generate independent daily reports. Analysts previously faced:
 ---
 
 ## 📈 Live Demo
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-workshop-w8qzri2vqcfauvolskfcbc.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fuyao-data-automation-a8sbpgynxdzfr4vyshvappw.streamlit.app/)
 
 > **How to use:** > 1. Click the badge above to open the cloud app.
 > 2. Upload the sample files from the `/Data` folder.
@@ -41,6 +41,3 @@ Production lines generate independent daily reports. Analysts previously faced:
 * **Libraries:** Pandas, Openpyxl, Streamlit, Matplotlib
 * **Version Control:** Git/GitHub
 * **Environment:** VS Code (Miniconda)
-
-
-Test 

@@ -5,7 +5,7 @@ import os
 
 # 1. 网页标题和设置
 st.set_page_config(page_title="福耀生产数据看板", layout="wide")
-st.title("📊 Fuyao Glass 生产自动化看板")
+st.title("📊 Fuyao Glass 生产自动看板")
 st.markdown("---")
 
 # 2. 侧边栏：上传文件
