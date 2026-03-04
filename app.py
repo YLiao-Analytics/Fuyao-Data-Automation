@@ -9,7 +9,7 @@ st.title("📊 Fuyao Glass 生产自动看板")
 st.markdown("---")
 
 # 2. 侧边栏：上传文件
-st.sidebar.header("数据上传区")
+st.sidebar.header("数据 上传区")
 uploaded_files = st.sidebar.file_uploader("上传各车间 CSV 文件", type="csv", accept_multiple_files=True)
 
 if uploaded_files:
