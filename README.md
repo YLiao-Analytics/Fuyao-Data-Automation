@@ -4,7 +4,7 @@
 ## 🌟 Executive Summary
 This project addresses the manual data consolidation challenges in a manufacturing environment (inspired by **Fuyao Glass**). By leveraging **Python** and **Streamlit**, I developed an end-to-end pipeline that transforms fragmented raw CSV data into an interactive, stakeholder-ready dashboard.
 
-**Key Result:** Reduced data processing time by **95%** (from 30 mins manual work to <1s automation) and eliminated human transcription errors.
+**Key Result:** Reduced data processing time by **95%** (from 60 mins manual work to <1m automation) and eliminated human transcription errors.
 
 ---
 
